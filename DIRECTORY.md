@@ -684,6 +684,7 @@
               * [LeftistHeapTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/datastructures/heaps/LeftistHeapTest.java)
             * lists
               * [CircleLinkedListTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/datastructures/lists/CircleLinkedListTest.java)
+              * [HareAndTortoiseTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/datastructures/lists/HareAndTortoiseTest.java)
               * [QuickSortLinkedListTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/datastructures/lists/QuickSortLinkedListTest.java)
               * [ReverseKGroupTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/datastructures/lists/ReverseKGroupTest.java)
               * [RotateSinglyLinkedListsTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/datastructures/lists/RotateSinglyLinkedListsTest.java)
